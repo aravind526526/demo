@@ -6,6 +6,9 @@ public class Car {
         @Override
         public int hashCode() {
             return super.hashCode();
+            System.out.println("hai");
         }
     };
+
+
 }
